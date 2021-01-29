@@ -7,3 +7,5 @@ Anyway, I'm alredy in and don't plan to give up, so... Yoohoo to me!!
 
 <3 <br>
 sou
+
+EDIT1: Added a ipynib file, and it works well.

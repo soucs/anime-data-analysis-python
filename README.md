@@ -1,5 +1,5 @@
 # hello-world
-Just Learning
+Just started Learning
 
 GitHub feels like rocket science to me right now, but I'm sure it will get better, won't it?
 <br>
